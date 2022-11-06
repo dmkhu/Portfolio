@@ -42,6 +42,13 @@ h1 {
     letter-spacing: 9px;
 }
 
+.title_3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 38px;
+    letter-spacing: 9px;
+    margin-top: 40px;
+}
+
 .title_23 {
     font-family: 'Roboto Slab', serif;
     font-size: 38px;
@@ -78,8 +85,8 @@ h1 {
     color: #fff;
     width: 35%;
     margin: 0px;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     border-radius: 20px;
     font-family: 'roboto', sans-serif;
     text-transform: uppercase;
